@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+
+    .column {
+        float: left;
+        width: 100%;
+        padding-left: 250px;
+    }
+
+.margin{
+    margin-left:100px;
+    margin-right: 50px;
+}
+
+ 
